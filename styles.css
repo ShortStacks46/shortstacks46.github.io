@@ -9,7 +9,7 @@ body{
 	
 }
 
-container{
+.container{
 	width:80%
 	max-width:900px;
 	min-width:300px; 
