@@ -3,3 +3,18 @@
     h1{color:white; }
     h2{color:white; }
 	li{color:#FC6C85; }
+
+body{
+	font-family: "*insert*", "*insert*", "*etc.*" 
+	
+}
+
+container{
+	width:80%
+	max-width:900px;
+	min-width:300px; 
+	background:#FFC1CC; 
+	margin: 0 auto; 
+	padding: 5; 
+	border: 0; 
+}
