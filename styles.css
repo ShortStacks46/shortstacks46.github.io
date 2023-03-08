@@ -24,7 +24,6 @@
 header{
 	top: 0; 
 	background-colour: #FC6C85; 
-	font-family: "Josefin Slab", "Courtier New", "serif"; 
 }
 
 footer{
@@ -32,6 +31,4 @@ footer{
 	position:relative; 
 	bottom: 0;
 	background-colour: #FC6C85; 
-	font-family: "Josefin Slab", "Courtier New", "serif"; 
-	padding: 20 0; 
 }
