@@ -1,6 +1,6 @@
 /* CSS Document */
 
-	body{background-color:#FFC1CC; }
+	body{background-color:<img src="background.jpg"/>; }
     
 	p{color:#FC6C85; }
     
@@ -33,6 +33,10 @@ footer{
 	position:relative; 
 	bottom: 0;
 	background-color: #000; 
+}
+
+nav{
+	position: sticky; 
 }
 
 nav ul{
