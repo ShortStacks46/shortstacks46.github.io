@@ -25,14 +25,14 @@
 
 header{
 	top: 0; 
-	background-color: #FC6C85; 
+	background-color: #E75480; 
 }
 
 footer{
 	clear:both; 
 	position:relative; 
 	bottom: 0;
-	background-color: #FC6C85; 
+	background-color: #E75480; 
 }
 
 nav ul{
@@ -57,5 +57,5 @@ nav li a{
 
 /*Change the link colour to  when hovered over*/ 
 nav li a:hover{
-	background-color: #FC6C85; 
+	background-color: #FC8EAC; 
 }
