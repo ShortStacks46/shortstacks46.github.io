@@ -8,7 +8,7 @@
     
 	h2{color:white; }
 	
-	h3{colour:white; }
+	h3{color:white; }
 	
 	li{color:#FC6C85; }
 
@@ -25,12 +25,37 @@
 
 header{
 	top: 0; 
-	background-colour: #FC6C85; 
+	background-color: #FC6C85; 
 }
 
 footer{
 	clear:both; 
 	position:relative; 
 	bottom: 0;
-	background-colour: #FC6C85; 
+	background-color: #FC6C85; 
+}
+
+nav ul{
+	list-style-type: none; 
+	margin: 0; 
+	padding: 0; 
+	overflow: hidden; 
+	background-color: #E75480; 
+} 
+
+nav li{
+	float: left; 
+}
+
+nav li a{
+	display: block; 
+	color: white; 
+	text-align: center; 
+	padding: 14px 16px; 
+	text-decoration: none; 
+} 
+
+/*Change the link colour to  when hovered over*/ 
+nav li a:hover{
+	background-color: #FC6C85; 
 }
