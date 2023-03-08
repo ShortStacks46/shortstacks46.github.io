@@ -1,6 +1,6 @@
 /* CSS Document */
 
-	body{background-color:<img src="background.jpg"/>; }
+	body{background-color:url("background.jpg"); }
     
 	p{color:#FC6C85; }
     
