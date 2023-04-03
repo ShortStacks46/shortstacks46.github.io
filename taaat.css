@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background-image: url("* insert image *"); }
+    
+	p{color:#C2C2B4; }
+    
+	h1{color:#FFE7C7; }
+    
+	h2{color:#FFE7C7; }
+	
+	h3{color:#FFE7C7; }
+	
+	li{color:#C2C2B4; } 
+
+    figcaption{color:#FFF; } 
+
+.container{
+	width:80%;
+	max-width:900px;
+	min-width:300px; 
+	background:#FFC1CC; 
+	margin: 0 auto; 
+	padding: 5px; 
+	border: 0; 
+}
+
+header{
+	top: 0; 
+	background-color: ##D1CFC0; 
+}
+
+footer{
+	clear:both; 
+	position:relative; 
+	bottom: 0;
+	background-color: #000; 
+}
+
+nav{
+	position: sticky; 
+}
+
+nav ul{
+	list-style-type: none; 
+	margin: 0; 
+	padding: 0; 
+	overflow: hidden; 
+	background-color: #ECC9C7; 
+} 
+
+nav li{
+	float: left; 
+}
+
+nav li a{
+	display: block; 
+	color: #F3DCD4; 
+	text-align: center; 
+	padding: 14px 16px; 
+	text-decoration: none; 
+} 
+
+/*Change the link colour to  when hovered over*/ 
+nav li a:hover{
+	background-color: #FC8EAC; 
+}
+
+figure{
+	border: 1px #FC6C85 solid; 
+	width: 250px; 
+	padding: 2px; 
+	float: right; 
+} 
+/*caption for the image*/
+figcaption{ 
+	background-color: #FC6C85; 
+	padding: 0; 
+	font-style: normal; 
+	text-align: center; 
+	line-height: 19px; 
+}
