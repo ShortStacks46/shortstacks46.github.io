@@ -19,7 +19,7 @@ body{background-image: url("* insert image *"); }
 	width:80%;
 	max-width:900px;
 	min-width:300px; 
-	background:#FFC1CC; 
+	background:#E1F8DC; 
 	margin: 0 auto; 
 	padding: 5px; 
 	border: 0; 
@@ -63,7 +63,7 @@ nav li a{
 
 /*Change the link colour to  when hovered over*/ 
 nav li a:hover{
-	background-color: #FC8EAC; 
+	background-color: #ECC9C7; 
 }
 
 figure{
