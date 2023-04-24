@@ -24,7 +24,7 @@
   </nav>
   <header><!-- TemplateBeginEditable name="content" -->
  
-    <h1>editable</h1>
+    <h1>editable (title) </h1>
   
   <!-- TemplateEndEditable --></header> 
 		
@@ -35,15 +35,13 @@
    <main>
 	<p>&nbsp;</p>
   <p>&nbsp;</p>
-		<p>editable</p>
+		<p>editable (content) </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 		</main>
   <!-- TemplateEndEditable -->
   <footer> 
-	  <h3>contact us!!</h3>
-	  <h4> 04** *** *** </h4>
-	  <h4> info@taat.com.au </h4>
+	  <h4> contact us!! ------------------------------------------------------- 04** *** *** -------------------------------------------------------- info@taat.com.au </h4>
 </footer>
 </body>
 </html>
