@@ -9,7 +9,9 @@ body{background-image: url("* insert image *"); }
     
 	h2{color:#78866b; }
 	
-	h3{color:#78866b; }
+	h3{color:#78866b; } 
+
+    h4{color:#78866b; }
 	
 	li{color:#78866b; } 
 
@@ -58,7 +60,7 @@ nav li{
 
 nav li a{
 	display: block; 
-	color: #F3DCD4; 
+	color: white; 
 	text-align: center; 
 	padding: 14px 16px; 
 	text-decoration: none; 

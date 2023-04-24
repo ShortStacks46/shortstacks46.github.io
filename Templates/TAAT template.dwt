@@ -23,28 +23,27 @@
   </ul>
   </nav>
   <header><!-- TemplateBeginEditable name="content" -->
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
+ 
     <h1>editable</h1>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
+  
   <!-- TemplateEndEditable --></header> 
 		
   
   
-  <main>
-	  <p>
-  </p>
-  </main>
+ 
   <!-- TemplateBeginEditable name="content2.0" -->
+   <main>
+	<p>&nbsp;</p>
   <p>&nbsp;</p>
-  <p>&nbsp;</p>
-editable
+		<p>editable</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+		</main>
   <!-- TemplateEndEditable -->
   <footer> 
-  <h3>contact details.. <3</h3>
-	</footer>
+	  <h3>contact us!!</h3>
+	  <h4> 04** *** *** </h4>
+	  <h4> info@taat.com.au </h4>
+</footer>
 </body>
 </html>
