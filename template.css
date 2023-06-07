@@ -75,3 +75,18 @@ nav li a{
 /*Change the link colour to  when hovered over*/ 
 nav li a:hover{
 	background-color: #F3DCD4; 
+
+figure{
+	border: 1px black; 
+	width: 250px; 
+	padding: 2px; 
+	float: right; 
+} 
+/*caption for the image*/
+figcaption{ 
+	background-color: white; 
+	padding: 0; 
+	font-style: normal; 
+	text-align: center; 
+	line-height: 19px; 
+}
