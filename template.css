@@ -17,7 +17,7 @@ body{
 	
 	li{color:#928e6d; } 
 
-    figcaption{color:#FFF; } 
+    figcaption{color:#928e6d; } 
 
 .container{
 	width:80%;
@@ -84,7 +84,7 @@ figure{
 } 
 /*caption for the image*/
 figcaption{ 
-	background-color: white; 
+	background-color: #928e6d; 
 	padding: 0; 
 	font-style: normal; 
 	text-align: center; 
